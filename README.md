@@ -12,3 +12,4 @@ Learn Machine Learning in 3 Month
 
 ML, DL
 + lang:RU https://www.youtube.com/watch?v=437YiHcvff4&list=PLsQAG1V_t58COuo7oRYsvdvwa9mfUK8RS
++ lang:RU https://www.youtube.com/channel/UCh1n4S8xnt6glf3wZb0Rq7w
