@@ -9,3 +9,6 @@ Python, Pandas, Numpy, Scipy, Scikit-learn, Kaggle, Seaborn, Web-Scrapping, Data
 
 Learn Machine Learning in 3 Month
 + lang:EN https://www.youtube.com/watch?v=Cr6VqTRO1v0
+
+ML, DL
++ lang:RU https://www.youtube.com/watch?v=437YiHcvff4&list=PLsQAG1V_t58COuo7oRYsvdvwa9mfUK8RS
