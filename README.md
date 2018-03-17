@@ -1,7 +1,7 @@
 # datachi
 
 Python, Pandas, Numpy, Scipy, Scikit-learn, Kaggle, Seaborn, Web-Scrapping, DataScience, NLP
-+ lang:EN https://github.com/blueliberty/
++ lang:CH https://github.com/blueliberty/
 + land:RU https://github.com/agzamovr/ml-course-uz.git
 + lang:EN https://github.com/AswathKiruba
 + lang:EN https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials.git
@@ -13,3 +13,6 @@ Learn Machine Learning in 3 Month
 ML, DL
 + lang:RU https://www.youtube.com/watch?v=437YiHcvff4&list=PLsQAG1V_t58COuo7oRYsvdvwa9mfUK8RS
 + lang:RU https://www.youtube.com/channel/UCh1n4S8xnt6glf3wZb0Rq7w
+
+BasicAlgorithm
++ lang:CH https://github.com/geekdick/baiscAlgorithm.git
