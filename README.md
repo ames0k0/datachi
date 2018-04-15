@@ -23,3 +23,4 @@ Python, Algorithm, DataStructers
 + lang:RU https://www.youtube.com/watch?v=IsaS0NmgXlg&list=PLIlebMsRnYGBNrsdr2DzWS7Lw6iOlK0Fz
 + lang:RU https://www.youtube.com/watch?v=MnmDi-pD7Rk&list=PLUFoWyWge7mpwi9Gd4CEMwKSJWvczrjpi
 + lang:RU https://www.youtube.com/watch?v=8JlTwMg1dyw&list=PLwwk4BHih4fjIT5cT4i1s93b99aJScUGB
++ lang:RU https://www.youtube.com/watch?v=dEFxoyJhm3Y&list=PLVlY_7IJCMJdgcCtQfzj5j8OVB_Y0GJCl
