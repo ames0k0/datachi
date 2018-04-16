@@ -24,3 +24,9 @@ Python, Algorithm, DataStructers
 + lang:RU https://www.youtube.com/watch?v=MnmDi-pD7Rk&list=PLUFoWyWge7mpwi9Gd4CEMwKSJWvczrjpi
 + lang:RU https://www.youtube.com/watch?v=8JlTwMg1dyw&list=PLwwk4BHih4fjIT5cT4i1s93b99aJScUGB
 + lang:RU https://www.youtube.com/watch?v=dEFxoyJhm3Y&list=PLVlY_7IJCMJdgcCtQfzj5j8OVB_Y0GJCl
+
+Python with James Powell
++ lang:EN https://www.youtube.com/watch?v=BRn6UCw35og
++ lang:EN https://www.youtube.com/watch?v=cKPlPJyQrt4
++ lang:EN https://www.youtube.com/watch?v=MQMbnhSthZQ
++ lang:EN https://www.youtube.com/watch?v=bh8QVDaroYE
