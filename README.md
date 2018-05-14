@@ -30,3 +30,6 @@ Python with James Powell
 + lang:EN https://www.youtube.com/watch?v=cKPlPJyQrt4
 + lang:EN https://www.youtube.com/watch?v=MQMbnhSthZQ
 + lang:EN https://www.youtube.com/watch?v=bh8QVDaroYE
+
+Python with Eduardo Mendes
++ lang:PT https://www.youtube.com/user/mendesesduardo/playlists
